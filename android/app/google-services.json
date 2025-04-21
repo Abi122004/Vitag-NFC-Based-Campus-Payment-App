@@ -1,0 +1,32 @@
+{
+    "project_info": {
+        "project_number": "150043589956",
+        "firebase_url": "https://vitag-c63dd-default-rtdb.firebaseio.com",
+        "project_id": "vitag-c63dd",
+        "storage_bucket": "vitag-c63dd.firebasestorage.app"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:150043589956:android:10aeef0dc5958f02c0eb11",
+            "android_client_info": {
+                "package_name": "com.android.vitag_app"
+            }
+        },
+        "oauth_client": [{
+            "client_id": "150043589956-r01v4pvgehed4dvtn6rifgmred5i778k.apps.googleusercontent.com",
+            "client_type": 3
+        }],
+        "api_key": [{
+            "current_key": "AIzaSyCYRm9aN4w-i0yKWRA4Y9FWNqLVYqD0Xw8"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                    "client_id": "150043589956-r01v4pvgehed4dvtn6rifgmred5i778k.apps.googleusercontent.com",
+                    "client_type": 3
+                }]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
