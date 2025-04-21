@@ -14,7 +14,7 @@ Vitag is an NFC-powered mobile payment application designed to simplify and digi
 ⚙️ Tech Stack
 Frontend: Flutter & Dart
 
-Backend (if any): Firebase / Node.js / Custom APIs (adjust based on your implementation)
+Backend: Firebase
 
 Payment Middleware: NFC communication & universe wallet integration
 
